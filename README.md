@@ -10,7 +10,7 @@
 * gladiator
 * !kingsman
 * !superman
-* batman
+* !batman
 * !captain america shield
 * !shield
 * hydra
@@ -19,10 +19,10 @@
 * wonder woman
 * !alita
 * grozilla
-* black widow
+* !black widow
 * jumanji
 * !game of thrones
-* halo
+* !halo
 * !avatar
 * transformers
 * harry potter
