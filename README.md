@@ -1,28 +1,28 @@
-# Epic Music
+1# Epic Music
 
 * witcher
 * lost in space
-* minecraft
-* pirates of the caribbean
+* !minecraft
+* !pirates of the caribbean
 * james bond
 * zoomania
-* hunger games
+* !hunger games
 * gladiator
-* kingsman
-* superman
+* !kingsman
+* !superman
 * batman
-* captain america shield
-* shield
+* !captain america shield
+* !shield
 * hydra
-* mission impossible
+* !mission impossible
 * aquaman
 * wonder woman
-* alita
+* !alita
 * grozilla
 * black widow
 * jumanji
-* game of thrones
+* !game of thrones
 * halo
-* avatar
+* !avatar
 * transformers
 * harry potter
