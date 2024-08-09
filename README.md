@@ -14,17 +14,17 @@
 
 ## Used
 
-* !alita
-* !avatar
-* !batman
-* !black widow
-* !captain america shield
-* !game of thrones
-* !halo
-* !hunger games
-* !kingsman
-* !minecraft
-* !mission impossible
-* !pirates of the caribbean
-* !shield
-* !superman
+* alita
+* avatar
+* batman
+* black widow
+* captain america shield
+* game of thrones
+* halo
+* hunger games
+* kingsman
+* minecraft
+* mission impossible
+* pirates of the caribbean
+* shield
+* superman
